@@ -14,7 +14,7 @@ export default defineConfig({
     VitePluginRadar({
       // Google Analytics tag injection
       analytics: {
-        id: 'G-B0NG7F2XZE',
+        id: 'G-H61075CR6T',
       },
     }),
     VitePWA({
